@@ -1,5 +1,6 @@
 {
   "name": "facerecognition",
+  "homepage": "https://github.com/dpyragas/facerecognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
