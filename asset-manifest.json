@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dpyragas/facerecognition/static/css/main.e89b5afc.chunk.css",
+    "main.js": "/dpyragas/facerecognition/static/js/main.4aa5cae3.chunk.js",
+    "main.js.map": "/dpyragas/facerecognition/static/js/main.4aa5cae3.chunk.js.map",
+    "runtime-main.js": "/dpyragas/facerecognition/static/js/runtime-main.edce4ace.js",
+    "runtime-main.js.map": "/dpyragas/facerecognition/static/js/runtime-main.edce4ace.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/dpyragas/facerecognition/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.b9913275.chunk.js": "/dpyragas/facerecognition/static/js/2.b9913275.chunk.js",
+    "static/js/2.b9913275.chunk.js.map": "/dpyragas/facerecognition/static/js/2.b9913275.chunk.js.map",
+    "index.html": "/dpyragas/facerecognition/index.html",
+    "precache-manifest.f6c2455ae1c3ff94dda61bd4ef07153f.js": "/dpyragas/facerecognition/precache-manifest.f6c2455ae1c3ff94dda61bd4ef07153f.js",
+    "service-worker.js": "/dpyragas/facerecognition/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/dpyragas/facerecognition/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.e89b5afc.chunk.css.map": "/dpyragas/facerecognition/static/css/main.e89b5afc.chunk.css.map",
+    "static/js/2.b9913275.chunk.js.LICENSE.txt": "/dpyragas/facerecognition/static/js/2.b9913275.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dpyragas/facerecognition/static/media/logo.982786b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edce4ace.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.b9913275.chunk.js",
+    "static/css/main.e89b5afc.chunk.css",
+    "static/js/main.4aa5cae3.chunk.js"
+  ]
+}
